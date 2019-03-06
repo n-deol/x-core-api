@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Nishaan.Solutions.X4EverCoreAPI", "Nishaan.Solutions.X4EverCoreAPI", "{09A73FF1-568F-4F27-91D1-4B33BA3578BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nishaan.Solutions.X4Ever.CoreAPI", "Nishaan.Solutions.X4Ever.CoreAPI\Nishaan.Solutions.X4Ever.CoreAPI.csproj", "{D58F24BE-A8C1-4509-9E55-80EE8580D732}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D58F24BE-A8C1-4509-9E55-80EE8580D732}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D58F24BE-A8C1-4509-9E55-80EE8580D732}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D58F24BE-A8C1-4509-9E55-80EE8580D732}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D58F24BE-A8C1-4509-9E55-80EE8580D732}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D58F24BE-A8C1-4509-9E55-80EE8580D732} = {09A73FF1-568F-4F27-91D1-4B33BA3578BF}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EE396A3-2DB6-47AC-9040-851379E20F8F}
+	EndGlobalSection
+EndGlobal
