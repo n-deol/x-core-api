@@ -1,0 +1,11 @@
+C:\x-core-api\Nishaan.Solutions.X4Ever.CoreAPI\bin\Debug\netcoreapp2.1\Nishaan.Solutions.X4Ever.CoreAPI.deps.json
+C:\x-core-api\Nishaan.Solutions.X4Ever.CoreAPI\bin\Debug\netcoreapp2.1\Nishaan.Solutions.X4Ever.CoreAPI.runtimeconfig.json
+C:\x-core-api\Nishaan.Solutions.X4Ever.CoreAPI\bin\Debug\netcoreapp2.1\Nishaan.Solutions.X4Ever.CoreAPI.runtimeconfig.dev.json
+C:\x-core-api\Nishaan.Solutions.X4Ever.CoreAPI\bin\Debug\netcoreapp2.1\Nishaan.Solutions.X4Ever.CoreAPI.dll
+C:\x-core-api\Nishaan.Solutions.X4Ever.CoreAPI\obj\Debug\netcoreapp2.1\Nishaan.Solutions.X4Ever.CoreAPI.csprojAssemblyReference.cache
+C:\x-core-api\Nishaan.Solutions.X4Ever.CoreAPI\obj\Debug\netcoreapp2.1\Nishaan.Solutions.X4Ever.CoreAPI.csproj.CoreCompileInputs.cache
+C:\x-core-api\Nishaan.Solutions.X4Ever.CoreAPI\obj\Debug\netcoreapp2.1\Nishaan.Solutions.X4Ever.CoreAPI.RazorAssemblyInfo.cache
+C:\x-core-api\Nishaan.Solutions.X4Ever.CoreAPI\obj\Debug\netcoreapp2.1\Nishaan.Solutions.X4Ever.CoreAPI.RazorAssemblyInfo.cs
+C:\x-core-api\Nishaan.Solutions.X4Ever.CoreAPI\obj\Debug\netcoreapp2.1\Nishaan.Solutions.X4Ever.CoreAPI.AssemblyInfoInputs.cache
+C:\x-core-api\Nishaan.Solutions.X4Ever.CoreAPI\obj\Debug\netcoreapp2.1\Nishaan.Solutions.X4Ever.CoreAPI.AssemblyInfo.cs
+C:\x-core-api\Nishaan.Solutions.X4Ever.CoreAPI\obj\Debug\netcoreapp2.1\Nishaan.Solutions.X4Ever.CoreAPI.RazorTargetAssemblyInfo.cache
